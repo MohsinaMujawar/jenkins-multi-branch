@@ -5,6 +5,7 @@ pipeline{
       steps{
         echo "hello world"
         echo "multi branch pipeline"
+        echo "no credentials"
       }
     }
   }
